@@ -1,4 +1,7 @@
 # Merchandise Online Store v1.0 by oretnom23 has arbitrary code execution (RCE)
+
+**Author** : ffYYy6x0y1
+
 vendor: https://www.sourcecodester.com/php/14887/merchandise-online-store-php-free-source-code.html
 
 Vulnerability url: http://ip/vloggers_merch/admin/?page=user
